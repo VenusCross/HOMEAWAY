@@ -52,9 +52,10 @@ a{
 
 
 
-body{			background: #FFDAA3 url('../images/bg.jpg') no-repeat left top;
-				background-color:;
-	color: orange;
+body{			
+				background: #FFDAA3 url('../images/bg.jpg') no-repeat left top;
+				background-color:#aad1e4;
+				color: white;
 }
 /* =============================================================================
 	forms sign up
